@@ -1128,7 +1128,7 @@ ul.portfolio-image li .desc{
 }
 /*---------- f. quote -----------*/
 #about{
-  min-height: 1500px;
+  min-height: 900px;
   display: inline-block;
   width: 100%;
 }
@@ -1142,7 +1142,7 @@ ul.portfolio-image li .desc{
   position: relative;
   padding: 0;
   margin: 0;
-  min-height: 1000px;
+  min-height: 900px;
   width: 100%;
   height: 100%;
   float: left;
@@ -1152,7 +1152,7 @@ ul.portfolio-image li .desc{
   width: 100%;
   position: relative;
   display: block;
-  min-height: 1500px;
+  min-height: 850px;
 }
 .wrap-about .w-content{
   position: absolute;
@@ -1191,7 +1191,7 @@ ul.portfolio-image li .desc{
 
 /*---------- f. aboutFortalezas -----------*/
 #aboutt{
-  min-height: 1500px;
+  min-height: 900px;
   display: inline-block;
   width: 100%;
 }
@@ -1205,7 +1205,7 @@ ul.portfolio-image li .desc{
   position: relative;
   padding: 0;
   margin: 0;
-  min-height: 1000px;
+  min-height: 900px;
   width: 100%;
   height: 100%;
   float: left;
@@ -1215,7 +1215,7 @@ ul.portfolio-image li .desc{
   width: 100%;
   position: relative;
   display: block;
-  min-height: 1500px;
+  min-height: 850px;
 }
 .wrap-about .w-content{
   position: absolute;
